@@ -1,0 +1,42 @@
+CONT,META
+1,"<meta content=""summary"" name=""twitter:card""/>"
+2,"<meta content=""stackoverflow.com"" name=""twitter:domain""/>"
+3,"<meta content=""website"" property=""og:type""/>"
+4,"<meta content=""https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded"" itemprop=""image primaryImageOfPage"" property=""og:image""/>"
+5,"<meta content=""Get meta tag content property with BeautifulSoup and Python"" itemprop=""title name"" name=""twitter:title"" property=""og:title""/>"
+6,"<meta content='I am trying to use python and beautiful soup to extract the content part of the tags below:
+
+&amp;lt;meta property=""og:title"" content=""Super Fun Event 1"" /&amp;gt;
+&amp;lt;meta property=""og:url"" content=""http://' itemprop=""description"" name=""twitter:description"" property=""og:description""/>"
+7,"<meta content=""http://stackoverflow.com/questions/36768068/get-meta-tag-content-property-with-beautifulsoup-and-python"" property=""og:url""/>"
+8,"<meta content=""US"" name=""twitter:app:country""/>"
+9,"<meta content=""Stack Exchange iOS"" name=""twitter:app:name:iphone""/>"
+10,"<meta content=""871299723"" name=""twitter:app:id:iphone""/>"
+11,"<meta content=""se-zaphod://stackoverflow.com/questions/36768068/get-meta-tag-content-property-with-beautifulsoup-and-python"" name=""twitter:app:url:iphone""/>"
+12,"<meta content=""Stack Exchange iOS"" name=""twitter:app:name:ipad""/>"
+13,"<meta content=""871299723"" name=""twitter:app:id:ipad""/>"
+14,"<meta content=""se-zaphod://stackoverflow.com/questions/36768068/get-meta-tag-content-property-with-beautifulsoup-and-python"" name=""twitter:app:url:ipad""/>"
+15,"<meta content=""Stack Exchange Android"" name=""twitter:app:name:googleplay""/>"
+16,"<meta content=""http://stackoverflow.com/questions/36768068/get-meta-tag-content-property-with-beautifulsoup-and-python"" name=""twitter:app:url:googleplay""/>"
+17,"<meta content=""com.stackexchange.marvin"" name=""twitter:app:id:googleplay""/>"
+CONT,META
+1,"<meta content=""summary"" name=""twitter:card""/>"
+2,"<meta content=""stackoverflow.com"" name=""twitter:domain""/>"
+3,"<meta content=""website"" property=""og:type""/>"
+4,"<meta content=""https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded"" itemprop=""image primaryImageOfPage"" property=""og:image""/>"
+5,"<meta content=""Get meta tag content property with BeautifulSoup and Python"" itemprop=""title name"" name=""twitter:title"" property=""og:title""/>"
+6,"<meta content='I am trying to use python and beautiful soup to extract the content part of the tags below:
+
+&amp;lt;meta property=""og:title"" content=""Super Fun Event 1"" /&amp;gt;
+&amp;lt;meta property=""og:url"" content=""http://' itemprop=""description"" name=""twitter:description"" property=""og:description""/>"
+7,"<meta content=""http://stackoverflow.com/questions/36768068/get-meta-tag-content-property-with-beautifulsoup-and-python"" property=""og:url""/>"
+8,"<meta content=""US"" name=""twitter:app:country""/>"
+9,"<meta content=""Stack Exchange iOS"" name=""twitter:app:name:iphone""/>"
+10,"<meta content=""871299723"" name=""twitter:app:id:iphone""/>"
+11,"<meta content=""se-zaphod://stackoverflow.com/questions/36768068/get-meta-tag-content-property-with-beautifulsoup-and-python"" name=""twitter:app:url:iphone""/>"
+12,"<meta content=""Stack Exchange iOS"" name=""twitter:app:name:ipad""/>"
+13,"<meta content=""871299723"" name=""twitter:app:id:ipad""/>"
+14,"<meta content=""se-zaphod://stackoverflow.com/questions/36768068/get-meta-tag-content-property-with-beautifulsoup-and-python"" name=""twitter:app:url:ipad""/>"
+15,"<meta content=""Stack Exchange Android"" name=""twitter:app:name:googleplay""/>"
+16,"<meta content=""http://stackoverflow.com/questions/36768068/get-meta-tag-content-property-with-beautifulsoup-and-python"" name=""twitter:app:url:googleplay""/>"
+17,"<meta content=""com.stackexchange.marvin"" name=""twitter:app:id:googleplay""/>"
